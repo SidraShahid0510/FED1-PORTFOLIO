@@ -287,37 +287,37 @@ ul li:hover::after {
 }
 
 .box1 {
-  background-image: url("/images/CSM-desktop.jpg");
+  background-image: url("images/CSM-desktop.jpg");
 }
 
 .box2 {
-  background-image: url("/images/CSM-Tab.jpg");
+  background-image: url("images/CSM-Tab.jpg");
 }
 
 .box3 {
-  background-image: url("/images/CSM-Mob.jpg");
+  background-image: url("images/CSM-Mob.jpg");
 }
 .box4 {
-  background-image: url("/images/yumm-desktop.jpg");
+  background-image: url("images/yumm-desktop.jpg");
 }
 
 .box5 {
-  background-image: url("/images/yumm-tab.jpg");
+  background-image: url("images/yumm-tab.jpg");
 }
 
 .box6 {
-  background-image: url("/images/yumm-mob.jpg");
+  background-image: url("images/yumm-mob.jpg");
 }
 .box7 {
-  background-image: url("/images/game-hub-desktop.jpg");
+  background-image: url("images/game-hub-desktop.jpg");
 }
 
 .box8 {
-  background-image: url("/images/game-hub-tab.jpg");
+  background-image: url("images/game-hub-tab.jpg");
 }
 
 .box9 {
-  background-image: url("/images/Game-hub-mob.jpg");
+  background-image: url("images/Game-hub-mob.jpg");
 }
 .about-section {
   background: #f6eee8;
