@@ -287,11 +287,11 @@ ul li:hover::after {
 }
 
 .box1 {
-  background-image: url("images/CSM-desktop.jpg");
+  background-image: url("../images/CSM-desktop.jpg");
 }
 
 .box2 {
-  background-image: url("images/CSM-Tab.jpg");
+  background-image: url("/images/CSM-Tab.jpg");
 }
 
 .box3 {
