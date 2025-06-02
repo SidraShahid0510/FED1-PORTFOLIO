@@ -12,11 +12,13 @@ openMenu.addEventListener("click", () => {
   closeMenu.style.display = "block";
 });
 // Close mobile menu
+
 closeMenu.addEventListener("click", () => {
   navLinks.classList.remove("active");
   openMenu.style.display = "block";
   closeMenu.style.display = "none";
 });
+
 window.addEventListener("scroll", revealOnScroll);
 
 function revealOnScroll() {
