@@ -54,7 +54,7 @@ If you’d like to contribute to this project, you can start by forking the repo
 
 This project is to build a front-end user interface for an existing API blogging application. This responsive web application allows users to view dynamic blog posts.
 
-![image alt](https://github.com/NoroffFEU/FED1-PE1-SidraShahid0510/blob/main/yumm%20stories.png?raw=true)
+![image alt](https://github.com/SidraShahid0510/FED1-PORTFOLIO/blob/main/images/yumm-stories.jpg?raw=true)
 
 Yumm Stories is a modern, responsive food blogging website where users can explore, create, and manage delicious food stories. Built using HTML, CSS, and JavaScript, this blog integrates with the Noroff API to support full CRUD (Create, Read, Update, Delete) operations for blog posts.
 
